@@ -1,6 +1,5 @@
 # Vitual_Voice_Assistant
 
-## Virtual Voice Assistant
 Welcome to Virtual Voice Assistant, your go-to virtual assistant for a wide range of tasks. Whether you need to stay informed, entertained, or productive, Virtual Voice Assistant has got you covered. Powered by machine learning and natural language processing, interacting with your computer has never been easier – simply speak and let Virtual Voice Assistant handle the rest!
 
 ## Features
@@ -30,11 +29,13 @@ Note: To enable email functionality, ensure that the "Less secure apps" option i
 API Keys
 To run this program, you'll need several API keys. Register for your API keys by clicking on the following links:
 
-[OpenWeatherMap API](https://openweathermap.org/api)
-[WolframAlph API](https://products.wolframalpha.com/api)
-[News API](https://newsapi.org/)
-[TMDB API](https://developer.themoviedb.org/docs/getting-started)
-[DreamStudio API](https://platform.stability.ai/docs/getting-started/authentication)
+- [OpenWeatherMap API](https://openweathermap.org/api)
+- [WolframAlph API](https://products.wolframalpha.com/api)
+- [News API](https://newsapi.org/)
+- [TMDB API](https://developer.themoviedb.org/docs/getting-started)
+- [DreamStudio API](https://platform.stability.ai/docs/getting-started/authentication)
+
+
 Installation
 Before installing, ensure that Python and pip are installed on your system.
 
