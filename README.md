@@ -24,7 +24,7 @@ Virtual Voice Assistant comes loaded with a plethora of features to enhance your
 - Google Search: Find information online instantly.
 - YouTube Playback: Enjoy your favorite songs and videos on YouTube.
 - Maps: Access maps and calculate distances between locations.
-- 
+  
 Note: To enable email functionality, ensure that the "Less secure apps" option is enabled in your Gmail account settings.
 
 API Keys
