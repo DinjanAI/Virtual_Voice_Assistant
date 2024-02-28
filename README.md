@@ -5,25 +5,26 @@ Welcome to Virtual Voice Assistant, your go-to virtual assistant for a wide rang
 ## Features
 Virtual Voice Assistant comes loaded with a plethora of features to enhance your computing experience, including:
 
-Jokes: Bring a smile to your face with hilarious jokes.
-News: Stay informed with the latest headlines.
-IP Address: Quickly find out your IP address.
-Entertainment: Stay up-to-date with the latest movies and TV series.
-Weather: Get current weather updates for any city.
-Internet Speed: Test your internet speed with ease.
-System Stats: Monitor your system's performance.
-Image Generation: Generate images from text inputs.
-Emails: Send emails to friends and colleagues effortlessly.
-System Operations: Perform various system operations seamlessly.
-Screenshots: Capture important moments with ease.
-Brief Information: Get concise information on any topic or personality.
-Math Operations: Solve math problems quickly.
-App and Website Launch: Open your favorite apps and websites effortlessly.
-Notes: Take notes and stay organized.
-Chat History: Save and refer back to your chat history.
-Google Search: Find information online instantly.
-YouTube Playback: Enjoy your favorite songs and videos on YouTube.
-Maps: Access maps and calculate distances between locations.
+- Jokes: Bring a smile to your face with hilarious jokes.
+- News: Stay informed with the latest headlines.
+- IP Address: Quickly find out your IP address.
+- Entertainment: Stay up-to-date with the latest movies and TV series.
+- Weather: Get current weather updates for any city.
+- Internet Speed: Test your internet speed with ease.
+- System Stats: Monitor your system's performance.
+- Image Generation: Generate images from text inputs.
+- Emails: Send emails to friends and colleagues effortlessly.
+- System Operations: Perform various system operations seamlessly.
+- Screenshots: Capture important moments with ease.
+- Brief Information: Get concise information on any topic or personality.
+- Math Operations: Solve math problems quickly.
+- App and Website Launch: Open your favorite apps and websites effortlessly.
+- Notes: Take notes and stay organized.
+- Chat History: Save and refer back to your chat history.
+- Google Search: Find information online instantly.
+- YouTube Playback: Enjoy your favorite songs and videos on YouTube.
+- Maps: Access maps and calculate distances between locations.
+- 
 Note: To enable email functionality, ensure that the "Less secure apps" option is enabled in your Gmail account settings.
 
 API Keys
