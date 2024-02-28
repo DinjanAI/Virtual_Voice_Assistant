@@ -68,7 +68,7 @@ Start the virtual voice assistant:
 ```
 You're all set! Virtual Voice Assistant should now be up and running on your system.
 
-Code Structure
+## Code Structure
 ```bash
 ├── Virtual-Voice-Assistant
     ├── Data
