@@ -1,4 +1,4 @@
-# Vitual_Voice_Assistant
+# Virtual_Voice_Assistant
 
 Welcome to Virtual Voice Assistant, your go-to virtual assistant for a wide range of tasks. Whether you need to stay informed, entertained, or productive, Virtual Voice Assistant has got you covered. Powered by machine learning and natural language processing, interacting with your computer has never been easier – simply speak and let Virtual Voice Assistant handle the rest!
 
