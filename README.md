@@ -37,7 +37,7 @@ To run this program, you'll need several API keys. Register for your API keys by
 
 
 Installation
-Before installing, ensure that Python and pip are installed on your system.
+Before installing, ensure that `Python` and `pip` are installed on your system.
 
 Clone the repository:
 
@@ -69,8 +69,7 @@ Start the virtual voice assistant:
 You're all set! Virtual Voice Assistant should now be up and running on your system.
 
 Code Structure
-arduino
-Copy code
+```bash
 ├── Virtual-Voice-Assistant
     ├── Data
         ├── .env
@@ -91,3 +90,4 @@ Copy code
         └── websites.py
     ├── requirements.txt
     └── setup.py
+```
