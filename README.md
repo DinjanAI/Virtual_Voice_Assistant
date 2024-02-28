@@ -49,7 +49,7 @@ Navigate to the project directory:
 ```bash
   cd Virtual-Voice-Assistant
 ```
-Open the .env file in the Data directory and insert your API keys.
+Open the `.env` file in the Data directory and insert your API keys.
 
 Run the setup script:
 
